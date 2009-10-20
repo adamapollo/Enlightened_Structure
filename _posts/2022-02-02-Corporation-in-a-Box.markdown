@@ -14,7 +14,3 @@ Resources
 
 [hol]: http://www.holacracy.org
 [fas]: http://www.fas.at/business/en/galery
-
-<!-- targets: forkthis.info -->
-<!-- targets: harlanknight.net -->
- 

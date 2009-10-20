@@ -22,4 +22,4 @@ Networked individuals dramatically outperforming antiquated business structures,
 
 [tx]: ../Trust_Exchange
 [wn]: ../WikiNodes
-[acd]: ../Corporation_in_a_Box
+[acd]: Corporation_in_a_Box
