@@ -18,7 +18,7 @@ A remixing layer to fork any text or media content, whether free IP or privately
 Corporation in a Box
 --------------------
 Networked individuals dramatically outperforming antiquated business structures, using open source full-transparency corporate democracy. Zero overhead: a guild bound by a luminous and simple software layer.
-&nbsp;<small>[[more]][acd]</small>
+&nbsp; [more][acd]
 
 [tx]: ../Trust_Exchange
 [wn]: ../WikiNodes
