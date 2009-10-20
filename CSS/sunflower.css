@@ -1,0 +1,192 @@
+/*
+Design by Free CSS Templates
+http://www.freecsstemplates.org
+Released for free under a Creative Commons Attribution 2.5 License
+*/
+
+body {
+	margin: 0;
+	padding: 0;
+	background: #000000 url(../IMG/img01.jpg) repeat-y top center;
+	font-size: 13px;
+	color: #8C8C8C;
+}
+
+body, th, td, input, textarea, select, option {
+/*  text-transform: lowercase;*/
+	font-family: "Trebuchet MS", "Times New Roman", Arial, Times, serif;
+}
+
+h1, h2, h3, #site_name {
+	font-weight: normal;
+	color: #CBA61A;
+}
+
+h1, #site_name {
+	letter-spacing: -2px;
+	font-size: 3em;
+}
+
+#site_name a, #site_name a:hover {
+	text-decoration: none;
+}
+
+h2 {
+	letter-spacing: -1px;
+	font-size: 2em;
+}
+
+h3 {
+	font-size: 1em;
+}
+
+p, ul, ol {
+	line-height: 200%;
+}
+
+blockquote {
+	padding-left: 1em;
+}
+
+blockquote p, blockquote ul, blockquote ol {
+	line-height: normal;
+	font-style: italic;
+}
+
+a {
+	color: #9BDB18;
+}
+
+a:hover {
+	text-decoration: none;
+	color: #E6B715;
+}
+
+/* Header */
+
+#header {
+	width: 760px;
+	height: 348px;
+	margin: 0 auto;
+	background: url(../IMG/img03.jpg) no-repeat right top;
+}
+
+#header h1, #header p, #header #site_name {
+	margin: 0;
+	color: #E6B715;
+}
+
+#header h1, #header #site_name {
+	padding: 100px 0 0 50px;
+}
+
+#header p {
+	padding-left: 53px;
+	margin-top: -10px;
+}
+#header a {
+	color: #E6B715;
+}
+
+/* Page */
+
+#page {
+	width: 760px;
+	margin: 0 auto;
+}
+
+/* Content */
+
+#content {
+	float: left;
+	width: 470px;
+	margin: 0;
+	margin-top: -90px;
+}
+
+.post {
+	padding: 0 0 20px 0;
+}
+
+.title {
+	margin: 0;
+	padding-bottom: 5px;
+	border-bottom: 2px dashed #333333;
+}
+
+.byline {
+	margin: 0;
+	color: #646464;
+}
+
+.meta {
+	text-align: right;
+	color: #646464;
+	padding: 5px 10px;
+	border: 1px dashed #333333;
+}
+
+.meta .more {
+	padding-left: 20px;
+	background: url(../IMG/img05.gif) no-repeat left center;
+}
+
+.meta .comments {
+	padding-left: 20px;
+	background: url(../IMG/img06.gif) no-repeat left center;
+}
+
+/* Sidebar */
+
+#sidebar {
+	float: right;
+	width: 230px;
+}
+
+#sidebar ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+#sidebar li {
+}
+
+#sidebar li ul {
+	padding: 15px 15px;
+}
+
+#sidebar li li {
+	border-bottom: 1px dotted #000000;
+	background: url(../IMG/img02.gif) no-repeat 5px 50%;
+	padding-left: 15px;
+}
+
+#sidebar h2 {
+	margin: 0;
+	padding: 20px 0 0 0;
+	border-bottom: 2px solid #0F0F0F;
+}
+
+#sidebar a {
+	text-decoration: none;
+}
+
+#sidebar a:hover {
+}
+
+/* Footer */
+
+#footer {
+	clear: both;
+	width: 760px;
+	margin: 0 auto;
+	padding: 30px 0;
+	text-align: left;
+	font-size: smaller;
+}          
+
+#footer a {
+  color: #8C8C8C;
+}
+
