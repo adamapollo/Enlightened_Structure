@@ -1,3 +1,8 @@
+---
+layout: default
+title: WikiNodes
+---
+
 <div style="text-align:center;">
 <i>&#8212; An Information Topology Revolution &#8212;</i>
 </div>

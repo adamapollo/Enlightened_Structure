@@ -1,3 +1,8 @@
+---
+layout: default
+title: Trust Exchange
+---
+
 The goal: build a global, free, open framework for exchanging trust ratings, bringing unprecedented transparency to our world's corporations and governments.  We lack transparency into our corporations and monetary systems. The current stock exchange & derivatives markets have lost our trust -- build a phoenix, a Trust Exchange, to rise out of its ashes.
 
 The purpose of the Trust Exchange is to support the era of transparency that is already being born. Rather than trying to fight the tsunami of capitalism, we propose to use the engine of capitalism as a force for social change. Corporations too can become model citizens, with the right rewards. The Trust Exchange is a software platform designed to make this so.

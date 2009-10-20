@@ -1,3 +1,8 @@
+---
+layout: default
+title: Corporation in a Box
+---
+
 _Reinventing the company as a trusted web: agile, transparent, hyperconnected_
 
 Open source collaboration framework, designed to drastically outperform aging corporate structures. Everything runs on whuffie, pays in whuffie.  Each private knowledge center has one person/organization as it's root trust node, which has override power.  You can clone node networks (with permission), and you should if you think you can do a better job than the current root node.
