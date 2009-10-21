@@ -20,6 +20,6 @@ Corporation in a Box
 Networked individuals dramatically outperforming antiquated business structures, using open source full-transparency corporate democracy. Zero overhead: a guild bound by a luminous and simple software layer.
 &nbsp; [more][acd]
 
-[tx]: Trust_Exchange
-[wn]: WikiNodes
-[acd]: Corporation_in_a_Box
+[tx]: ../Trust_Exchange
+[wn]: ../WikiNodes
+[acd]: ../Corporation_in_a_Box
