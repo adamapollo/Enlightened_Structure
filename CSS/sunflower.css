@@ -183,7 +183,8 @@ a:hover {
 	margin: 0 auto;
 	padding: 30px 0;
 	text-align: left;
-	font-size: smaller;
+  /* font-size: smaller; */
+	font-style: italic;
 }          
 
 #footer a {
