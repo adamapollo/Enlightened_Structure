@@ -11,8 +11,8 @@ Allow each member of an organization to weigh in on each issue / decision point 
 
 Decision making can occur in layers, such that everyone can contribute to high level strategy, and those closer to a given project can steer it more directly.                                              
 
-Resources
-=========
+## Resources
+
 * [Holocracy][hol]: A modified consensus corporate, continual steering, democracy system from Ternary Software, who (among other things) have total transparency of everyone's salary.
 * [FAS Research][fas]- advanced visualizations of organizational relationships <!-- eg "who do your rely on to get your daily work done", "who energizes you?" -->
 <!-- * "Current reality trees" - Eli GoldRatt -->

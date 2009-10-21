@@ -17,22 +17,20 @@ When viewing ratings, they will be weighted through your network of trust. For e
 
 Individuals could publish their trust ratings either privately (to their trusted contacts) or publicly. Publicly published ratings would be amalgamated by different organizations as trust "indexes" based on the ratings of their contributors. When influential organizations update their trust indexes, companies' stock prices will be affected, and corporations will pay attention to what affects public trust.
 
+## Solutions to our Biggest Issues
 
-Solutions to our Biggest Issues
-==================================================================================
 Corporations tend to pursue profit, often disregarding the good of the communities and the planet. There is a promising movement in the corporate world toward social and environmental responsibility, and this trend could be greatly accelerated by increasing transparency, and allowing consumers to "vote" with their dollars. If customers were directly telling a corporation when they were (and were not) purchasing from them, then both the corporation and the shareholders would see that even from a pure profit motive, it is in their best interest to move toward the values of the consumer.
 
 In the political realm, citizens suffer from a lack of transparency, getting their information from sources they don't really trust, simply because trusted information is not readily available. The Trust Exchange would make highly rated news media (text, audio, video) readily accessible, by filtering it through your trust network. 
 
-Who Benefits
-==================================================================================
+## Who Benefits
+
 Unlike today's (mostly proprietary) rating systems, the public at large can benefit from the ratings exposed through the Trust Exchange. We do not propose to build another silo of proprietary information. We propose to build the network that links existing trust ratings together, and inspires people to create new ratings, to share their valuable knowledge with their friends.
 
 Anyone doing research on a purchase could tap into the publicly available ratings of relevant companies, to help them choose a product or supplier aligned with their own values. Users with rich online social networks would benefit even more, by inheriting ratings created by their trusted contacts. Corporations and governments will have much better information about the real desires and priorities of their customers and citizens.
 
+## Initial Steps
 
-Initial Steps
-==================================================================================
  * Define a simple standard for exchanging ratings 
  * Define a "microformat" to expose ratings from any site
  * Create a free, open source crawler to collate ratings
@@ -40,14 +38,11 @@ Initial Steps
  * Create a coalition of leading social networking and search companies, willing to implement the Trust Exchange protocol, and allow their users to share trust data across networks. This coalition could be spearheaded by Google, united by an inspiring mission, eg "The Trust Exchange -- Share Your Opinions, Save the World"
  * Add Trust Exchange ratings from your community to product, news, and media search results 
 
-Optimal Outcome & Measuring Success
-==================================================================================
+## Optimal Outcome & Measuring Success
+
 Level one of success: popular product search sites have integrated trust exchange ratings, from the trust network of the current user.
 
 Level two: influential organizations publish amalgamations of ratings from individuals and other organizations, which begin to have noticeable impact on the stock market.
 
 Level three: the Trust Exchange begins to have an impact on elections, as your trust network automatically percolates its recommendations to you.
-
-<!-- targets: forkthis.info -->
-<!-- targets: harlanknight.net -->
  
