@@ -1,0 +1,16 @@
+---
+layout: default
+title: Fork This
+---
+
+Remix the entire Free IP universe: the new living human knowledge conversation.  Git-style forking, applied to the worldwide body of [Creative Commons][cc] and other open source IP works, every revision archived, distributed, mirrored.  Create a massive explosion of information and creativity, all explorable in evolving diffable trees and clouds.  
+
+Forking, diffing, and merging as the standard information conversation -- within companies, communities, working groups. Users can share any information, optionally password protected, optionally encrypted.  Networks of trust arise organically from communities of sharing, further sculpted by peer ratings.                   
+       
+_Current Implementation:_ Sign up to hear join the [private beta][beta]. 
+ 
+_References:_ <a href="http://en.wikipedia.org/wiki/Fork_(software_development)">[what is forking?]</a>
+ 
+[cc]: http://creativecommons.org             
+[beta]: http://forkthis.net
+
