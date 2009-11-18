@@ -32,12 +32,19 @@ h1, #site_name {
 }
 
 h2 {
+  padding-top: 1em;
 	letter-spacing: -1px;
 	font-size: 2em;
 }
 
 h3 {
 	font-size: 1em;
+}
+
+h1, h2, .title {
+	margin: 0;
+	padding-bottom: 5px;
+	border-bottom: 2px solid #333333;
 }
 
 p, ul, ol {
@@ -108,27 +115,21 @@ a:hover {
 	padding: 0 0 20px 0;
 }
 
-.title {
-	margin: 0;
-	padding-bottom: 5px;
-	border-bottom: 2px dashed #333333;
-}
-
 .byline {
 	margin: 0;
 	color: #646464;
 }
 
-.meta {
-	text-align: right;
-	color: #646464;
-	padding: 5px 10px;
-	border: 1px dashed #333333;
+.meta, .read-more {
+  text-align: right;
+  color: #646464;
+  padding: 5px 10px;
+  border: 1px solid #333333;
 }
 
-.meta .more {
-	padding-left: 20px;
-	background: url(../IMG/img05.gif) no-repeat left center;
+.meta .more, .read-more a {
+  padding-left: 20px;
+  background: url(../IMG/img05.gif) no-repeat left center;
 }
 
 .meta .comments {
@@ -183,7 +184,7 @@ a:hover {
 	margin: 0 auto;
 	padding: 30px 0;
 	text-align: left;
-  /* font-size: smaller; */
+  font-size: smaller; 
 	font-style: italic;
 }          
 

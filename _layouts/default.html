@@ -17,10 +17,48 @@
 	<div id="content">
     <h1>{{ page.title }}</h1>
     {{ content }}
-    <hr />
+	</div>                                   
+
+	<!-- start sidebar -->
+	<div id="sidebar">
+		<ul>
+			<li>
+				<ul>
+  				<li><script type="text/javascript" language="javascript">
+            <!--
+            // Email obfuscator script 2.1 by Tim Williams, University of Arizona
+            // Random encryption key feature by Andrew Moulden, Site Engineering Ltd
+            // This code is freeware provided these four comment lines remain intact
+            // A wizard to generate this code is at http://www.jottings.com/obfuscator/
+            { coded = "BwhH@w4vqV9Bw4w26B73IB37w.IgH"
+              key = "f9P6vaHw8dZSYIyUR4pVE0roOuGXA1itNLhxsl2mezQkFJcMjTn7gb35KDCqBW"
+              shift=coded.length
+              link=""
+              for (i=0; i<coded.length; i++) {
+                if (key.indexOf(coded.charAt(i))==-1) {
+                  ltr = coded.charAt(i)
+                  link += (ltr)
+                }
+                else {     
+                  ltr = (key.indexOf(coded.charAt(i))-shift+key.length) % key.length
+                  link += (key.charAt(ltr))
+                }
+              }
+            document.write("<a href='mailto:"+link+"'>Contact Us</a>")
+            }
+            //-->
+            </script><noscript>Sorry, you need Javascript on to email me.</noscript></li>
+					<li><a href="http://github.com/enlightenedstructure/Enlightened_Structure">Fork this site on Github</a></li>
+					<li><a href="#">View website template</a></li>
+				</ul>
+			</li>
+		</ul>
 	</div>
+	<!-- end sidebar -->
+	
 </div>
-<div id="footer">
+<div id="footer">       
+  <p>
     You are free to copy, share, modify, and remix this work, for free or for profit, <br />
     on the condition that you attribute this page as a source 
     (or <a href="http://github.com/enlightenedstructure/Enlightened_Structure">fork it on GitHub</a>), <br />
@@ -28,8 +66,7 @@
     <a rel="license" target="_blank" 
       href="http://creativecommons.org/licenses/by-sa/3.0/us/">Creative Commons licence</a>. <br />
     <br />
-    <a href="http://www.freecsstemplates.org/preview/sunflower">This website template</a> 
-    is available under a creative commons license.
+  </p>
 </div>
 
 <!--
