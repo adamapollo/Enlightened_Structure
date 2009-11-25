@@ -117,7 +117,8 @@ a:hover {
 
 .byline {
 	margin: 0;
-	color: #646464;
+	background: #222;
+	color: #AAA;
 }
 
 .meta, .read-more {

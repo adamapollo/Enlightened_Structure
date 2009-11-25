@@ -23,7 +23,8 @@ Rewrite capitalism and democracy with the rules of Trust Economics.
 
 <p class="read-more" markdown="1">[read more][tx]</p> 
 
-## Hackfest for the Light
+## Hackfest for the Light                            
+
 A synergy of San Francisco Bay Area programmers, designers, and entrepreneurs, putting their skills toward inspiring goals in the form of socially responsible software projects. 
 
 <p class="read-more" markdown="1">[read more][h4l]</p> 
