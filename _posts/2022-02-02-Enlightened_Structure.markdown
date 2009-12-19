@@ -3,8 +3,6 @@ layout: default
 title: Enlightened Structure
 ---
 
-The revolution will be executable.
-
 ## The Trust Exchange
 
 Rewrite capitalism and democracy with the rules of Trust Economics. 
