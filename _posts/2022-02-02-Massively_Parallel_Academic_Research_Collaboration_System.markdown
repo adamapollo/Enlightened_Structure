@@ -1,4 +1,4 @@
-﻿---
+---
 layout: default
 title: Massively Parallel Academic Research Collaboration System
 ---
