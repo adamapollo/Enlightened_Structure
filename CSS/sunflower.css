@@ -193,3 +193,7 @@ a:hover {
   color: #8C8C8C;
 }
 
+img.bio {            
+  float: left;
+  margin-right: 1.5em;
+}

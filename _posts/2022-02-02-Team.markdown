@@ -1,0 +1,13 @@
+---
+layout: default
+title: Team
+---
+
+## Harlan Knight Wood
+### Chief Collaboration Officer
+<img src="../IMG/harlan.jpg" class="bio" /> 
+                                              
+Harlan is the creative force behind Enlightened Strucure -- his life's work is to transition humanity from a time of scarcity to a world of full-time creators.  As step zero of this project, Harlan designed and began implemntation of Wikinodes, a massively parallel creative collaboration engine, designed to bring the explosion of crowdsourcing energy to the world's creative projects that Wikipedia has brought to factual information.
+
+Harlan brings a decade of software development experience together with a diverse background including many years of work in various personal transformation systems.  In addition to software, he is working on an open-IP licensed science fiction movies with spiritual punch, as well as a worldwide network of distributed trust ratings, which, in its full realization, has the potential to reinvent both democracy and capitalism as engines of social change.
+
