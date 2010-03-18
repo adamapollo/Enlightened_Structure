@@ -19,10 +19,5 @@ What are you passionate about? Maybe you have design ideas for creating efficien
 
 WikiNodes has a vast range of potential applications -- here we explore a [Massively Parallel Academic Research Collaboration System][wda].
 
-[Fork This][ft] -- social free IP remixing on crack.
-
 [wda]: ../Massively_Parallel_Academic_Research_Collaboration_System
-[ft]: ../Fork_This
 
-<!-- targets: harlanknight.net -->
-<!-- targets: forkthis.info -->
