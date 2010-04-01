@@ -27,11 +27,7 @@ MPARCS will be released as free, open source software, utilizing maximally permi
 
 ## Development Roadmap
 
-The MPARCS engine is already in progress, with early, low-feature beta versions freely available.  The project could be greatly accelerated with relatively modest funding, in order to secure fulltime development efforts.  This roadmap is designed in six-month phases, utilizing modern agile software development methodologies to deliver maximum value: the features of the highest priority to the end users.  User testing at the end of every monthly iteration will feed back feature requests into the plan for the subsequent iteration.  
-
-The funding target for each phase is $300,000, which includes contract rates for two senior developers, part time allocation for a project manager, a designer, and a user experience architect, as well as modest allocation for working facilities.  
-
-The features developed in each phase will be chosen dynamically, as feedback is gathered from the partially implemented system.  An initial suggested Phase One is elucidated below.  Features will be reorganized at the end of every one month iteration.  The project manager would set the priority of  features, in consultation with actual users testing the developing system, as well as representatives of the organization(s) providing funding.
+The MPARCS engine is in progress, with an early beta version already available.  The project could be greatly accelerated with relatively modest funding, in order to secure fulltime development efforts.  This roadmap is designed in six-month phases, utilizing modern agile software development methodologies to deliver maximum value: the features of the highest priority to the end users.  User testing at the end of every monthly iteration will feed back feature requests into the plan for the subsequent iteration.  
 
 ### Phase One           
 
