@@ -1,5 +1,6 @@
+.DS_Store
+.idea
 _drafts/
 _site/
 tmp/
 favicon.ico
-.DS_Store
