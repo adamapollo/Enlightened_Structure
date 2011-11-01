@@ -4,6 +4,8 @@ author: Harlan Knight Wood
 layout: post
 ---
 
+<img width="185" height="136" src="../IMG/the-trust-exchange-185x136.png" class="thumbnail-post alignleft wp-post-image" alt="Trust Exchange" title="Trust Exchange" />
+
 _Superseding the Scarcity Economy_
 
 The Trust Exchange utilizes the network of trust relationships that already exist, making them visible, interlinked and actionable.  Most of our decisions are based on collective opinions and discernment, particularly those of friends we trust.  The Trust Exchange brings visibility to your friends' ratings of products, companies, websites, and more.  In turn, you can rate your trust level of a friend or information source in any category, where categories are simply user-created tags.  One friend you may trust for their computer knowledge and another for their culinary capacity.
