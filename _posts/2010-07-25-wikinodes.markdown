@@ -3,7 +3,7 @@ title: WikiNodes
 author: Harlan Knight Wood
 layout: post
 ---
-<em>Large Scale Parallel Creative Collaboration</em> :::
+<em>Large Scale Parallel Creative Collaboration</em>
 
 Wikis have revolutionized textual information sharing. Documents created by harnessing collective collaboration far outperform previous modes of knowledge aggregation. Wikipedia has demonstrated the incredible effectiveness of this approach.
 
