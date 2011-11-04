@@ -2,8 +2,10 @@
 title: Massively Parallel Academic Research System
 author: Harlan Knight Wood
 layout: post
+excerpt: Research papers, placed into the public domain with appropriate supporting technology, will allow others to build on these works, while still preserving intellectual ownership of ideas through total transparency and traceability.
 ---
-<em id="the_vision"><span style="font-weight: normal; font-size: 14px;">Massively Parallel Academic Research System (MPARCS)--As Wikipedia has opened the encyclopedia by leveraging the "wisdom of crowds", so the MPARCS project seeks to open the cutting edges of human knowledge, as represented in academic research. Research papers, or even seeds of papers, placed into the public domain with appropriate supporting technology, will allow others to build on these works, while still preserving intellectual ownership of ideas through total transparency and traceability.</span></em>
+
+Massively Parallel Academic Research System (MPARCS)--As Wikipedia has opened the encyclopedia by leveraging the "wisdom of crowds", so the MPARCS project seeks to open the cutting edges of human knowledge, as represented in academic research. Research papers, or even seeds of papers, placed into the public domain with appropriate supporting technology, will allow others to build on these works, while still preserving intellectual ownership of ideas through total transparency and traceability.
 
 Academic research builds upon other research. What if this could be done incrementally, as a living conversation? What if instead of having to wait for a whole "new" idea, a paper could be improved on incrementally, by anyone who had an improvement -- minor or revolutionary? Then the world of research and noetic advancement could become truly alive, constantly morphing, reorganizing, improving the human knowledge ecosystem.
 

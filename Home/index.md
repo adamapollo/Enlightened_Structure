@@ -2,13 +2,15 @@
 layout: default
 ---
 
-ES
---------------------------------------
+Enlightened Structure
+=====================
 
-Lorem ipsum in cat a calis sum. Lorem ipsum in cat a calis sum. Lorem ipsum in cat a calis sum. Lorem ipsum in cat a calis sum. Lorem ipsum in cat a calis sum. Lorem ipsum in cat a calis sum. Lorem ipsum in cat a calis sum. Lorem ipsum in cat a calis sum. Lorem ipsum in cat a calis sum. Lorem ipsum in cat a calis sum. Lorem ipsum in cat a calis sum. Lorem ipsum in cat a calis sum. Lorem ipsum in cat a calis sum. Lorem ipsum in cat a calis sum. Lorem ipsum in cat a calis sum. Lorem ipsum in cat a calis sum. Lorem ipsum in cat a calis sum. Lorem ipsum in cat a calis sum. Lorem ipsum in cat a calis sum. Lorem ipsum in cat a calis sum. Lorem ipsum in cat a calis sum. Lorem ipsum in cat a calis sum. Lorem ipsum in cat a calis sum. Lorem ipsum in cat a calis sum. Lorem ipsum in cat a calis sum. Lorem ipsum in cat a calis sum. Lorem ipsum in cat a calis sum. Lorem ipsum in cat a calis sum. Lorem ipsum in cat a calis sum. Lorem ipsum in cat a calis sum. Lorem ipsum in cat a calis sum. Lorem ipsum in cat a calis sum.
+Lorem ipsum in cat a calis sum. Lorem ipsum in cat a calis sum. Lorem ipsum in cat a calis sum.
+Lorem ipsum in cat a calis sum. Lorem ipsum in cat a calis sum. Lorem ipsum in cat a calis sum.
+Lorem ipsum in cat a calis sum. Lorem ipsum in cat a calis sum. Lorem ipsum in cat a calis sum.
 
-Recent Posts
-------------
+Free Culture Seeds
+------------------
 
 <dl>
   {% for post in site.posts %}
@@ -21,8 +23,6 @@ Recent Posts
       <em>
         {{ post.excerpt }}
       </em>
-      <br />
-      <a href="{{ post.url }}">read more &#10157;</a>
     </dd>
   {% endfor %}
 </dl>

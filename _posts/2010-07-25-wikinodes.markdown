@@ -2,6 +2,7 @@
 title: WikiNodes
 author: Harlan Knight Wood
 layout: post
+excerpt: WikiNodes is an engine for large-scale parallel creative collaboration of all sorts. It harnesses the power of existing systems and workflows currently used for developing software, and applies them to creating media at large.
 ---
 <em>Large Scale Parallel Creative Collaboration</em>
 
