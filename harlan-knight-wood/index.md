@@ -1,8 +1,6 @@
 --- 
 layout: post
 title: Harlan Knight Wood
-wordpress_id: 6
-wordpress_url: http://enlightenedstructure.org/?p=6
 ---
 Harlan is the creative force behind Enlightened Structure -- his goal is to contribute to humanity's transition from a time of scarcity to a world of full-time creators. As step zero of this project, Harlan has designed and begun implementation of Wikinodes, a massively parallel creative collaboration engine, designed to bring the explosion of crowdsourcing energy to the world's creative projects that Wikipedia has brought to factual information.
 
