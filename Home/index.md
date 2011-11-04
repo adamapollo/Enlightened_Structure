@@ -5,9 +5,9 @@ layout: default
 Enlightened Structure
 =====================
 
-Lorem ipsum in cat a calis sum. Lorem ipsum in cat a calis sum. Lorem ipsum in cat a calis sum.
-Lorem ipsum in cat a calis sum. Lorem ipsum in cat a calis sum. Lorem ipsum in cat a calis sum.
-Lorem ipsum in cat a calis sum. Lorem ipsum in cat a calis sum. Lorem ipsum in cat a calis sum.
+Enlightened Structure is a set of Free Culture idea seeds
+for global infrastructure software projects for social good.
+All of the content on this site is reusable and remixable under a Creative Commons license.
 
 Free Culture Seeds
 ------------------
