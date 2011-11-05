@@ -1,41 +1,21 @@
-Pivotal Tracker Lite
-====================
+To Do
+=====
+* Team page becomes "About Us"
+* blogroll, related links
+* Encourage forking
+* Comments -> Disqus -> Jekyll blog
+* Add atom.xml
 
-* (C) Rework EnlightenedStructure.org into a blog
-	* Convert to Jekyll -- 
-	* Home page is list of Recent Posts
-	* Projects page goes away
-	* Team page becomes "About Us"
-	* Kill Services page
-	* DRY -- no PDF that is duplication of content
-	* kill search
-	* blogroll, related links
-	* kill pdf, online snippets, feed
-	* Encourage forking
-	* Make sure we keep the whole layout (right column)
-		* Get awesome background
-		* get the lines right (dividing content from right col, etc)
-	* Comments -> Disqus -> Jekyll blog 
-	* Add atom.xml 
-
-* Improve OpenSourceTransformation.org design [es]
-
-* Write post on ES project mission statement and architecture [es]
-
-* WikiGini diffing architecturei [wg]
-
-* WikiGini infovis [wg]
-
-
-Do Never
-========
-
-* (C) Forward all EnlightenedStructure.org pages to other sites [es]
-	* Write forwarding app in Rails
-	* Repost to other sites
-	* Explain to Adam
-
-
-Done 
+Done
 ====
 * back up wp install 
+* Convert to Jekyll --
+* Home page is list of Recent Posts
+* Projects page goes away
+* Kill Services page
+* DRY -- no PDF that is duplication of content
+* kill search
+* kill pdf, online snippets, feed
+* Make sure we keep the whole layout (right column)
+  * Get awesome background
+  * get the lines right (dividing content from right col, etc)
