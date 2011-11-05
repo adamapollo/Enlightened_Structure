@@ -5,8 +5,8 @@ layout: default
 Enlightened Structure
 =====================
 
-Enlightened Structure is a set of Free Culture idea seeds
-for global infrastructure software projects for social good.
+Enlightened Structure is a set of Free Culture idea seeds --
+global infrastructure software projects for social good.
 All of the content on this site is reusable and remixable under a Creative Commons license.
 
 Free Culture Seeds
