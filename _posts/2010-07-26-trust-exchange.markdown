@@ -29,7 +29,7 @@ Anyone doing research on a purchase could tap into the publicly available rating
 	<li>Define a "microformat" to expose ratings from any site</li>
 	<li>Create a free, open source crawler to collate ratings</li>
 	<li>Create a free, open source Trust Exchange web application, which can be used to gather trust ratings for a given organization. Any site could collect trust ratings from its users, either by dropping a Trust Exchange widget into their existing site code, or by installing the free Trust Exchange web application.</li>
-	<li>Create a coalition of leading social networking and search companies, willing to implement the Trust Exchange protocol, and allow their users to share trust data across networks. This coalition could be spearheaded by Google, united by an inspiring mission, e.g. "Trust Exchange -- Share Your Opinions, Save the World"</li>
+	<li>Create a coalition of leading social networking and search companies, willing to implement the Trust Exchange protocol, and allow their users to share trust data across networks.</li>
 	<li>Add Trust Exchange ratings from your community to product, news, and media search results</li>
 </ul>
 <h2 id="optimal_outcome__measuring_success">Optimal Outcome &amp; Measuring Success</h2>
