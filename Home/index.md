@@ -15,8 +15,6 @@ Free Culture Seeds
 <dl>
   {% for post in site.posts %}
     <dt>
-      <span>{{ post.date | date_to_string }}</span>
-      &raquo;
       <a href="{{ post.url }}">{{ post.title }}</a>
     </dt>
     <dd>
