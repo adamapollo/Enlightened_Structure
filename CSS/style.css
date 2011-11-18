@@ -259,10 +259,10 @@ span.bottom_bg { background:url("/IMG/comment-bottom.png") no-repeat scroll bott
 						ul#tabbed-area li.ui-state-active a:hover { background-color: #e8ebec; }
 					div#recent-tabbed.widget {padding-top: 25px;}	
 			div.sidebar-block .widget ul ul { margin-left: 9px;}
-				.widget ul { margin-bottom: 5px; }
-					.widget ul ul { margin-bottom: 0px; }
-				.widget ul li { background: url(/IMG/bullet.png) no-repeat 0 10px; padding:5px 0 8px 18px; color: #262626;}
-					.widget ul li ul { margin:0 0 -12px; padding:5px 0 0 7px;}	
+				.widget ul, #content ul { margin-bottom: 5px; }
+					.widget ul ul, #content ul ul { margin-bottom: 0px; }
+				.widget ul li, #content ul li { background: url(/IMG/bullet.png) no-repeat 0 10px; padding:5px 0 8px 18px; color: #262626;}
+					.widget ul li ul, #content ul li ul { margin:0 0 -12px; padding:5px 0 0 7px;}
 						div#recent-tabbed, div#popular-tabbed, div#random-tabbed {padding-top: 25px; padding-left: 35px; padding-bottom: 25px; }
 							div.widget h3.widgettitle { padding-bottom: 20px;  }
 						

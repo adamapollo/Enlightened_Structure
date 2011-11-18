@@ -6,34 +6,24 @@ title: Resources
 Trust
 -----
 
-> [Connect.me][], their whitepaper: [The Personal Network][], and the associated [Trust Framework][]
+* [Connect.me][], and their whitepaper: [The Personal Network][], and the associated [Trust Framework][]
 
 Collaboration
 -------------
 
-> [Better Means][] - Use open-source decision-making rules, and self-organizing principles to run your real-world projects.
+* [Better Means][] - Use open-source decision-making rules, and self-organizing principles to run your real-world projects.
 
 Projects
 --------
 
-> [10 Projects to Liberate the Web]
-
-People 
-------
-
-> [Adam Apollo]
-
-> [Jack Senechal]
-
-> [Shiloh Boss]
-
-> [Venessa Miemis]
+* [10 Projects to Liberate the Web]
 
 Conferences
 -----------
 
-> [Contact Summit]
-> [ContactCon Projects]
+* [Contact Summit]
+* [ContactCon Projects]
+* [Wisdom 2.0]
 
 
 
@@ -50,3 +40,4 @@ Conferences
 [Connect.me]: http://connect.me/
 [Trust Framework]: http://connect.me/c/trust
 [The Personal Network]: http://blog.connect.me/whitepaper-the-personal-network
+[Wisdom 2.0]: http://www.wisdom2summit.com/
