@@ -5,7 +5,7 @@ layout: post
 excerpt: The Trust Exchange will amalgamate existing ratings from any source, feeding them into a free, open, globally distributed database. Instead of creating another proprietary “silo” containing your ratings and trust information, like so many existing online systems, the Trust Exchange is a simple and powerful open platform for humanity to exchange its trust information.
 ---
 
-<img width="185" height="136" src="../IMG/the-trust-exchange-185x136.png" class="thumbnail-post alignleft wp-post-image" alt="Trust Exchange" title="Trust Exchange" />
+<img src="../IMG/the-trust-exchange-185x136.png" class="thumbnail-post alignleft" />
 
 _Superseding the Scarcity Economy_
 

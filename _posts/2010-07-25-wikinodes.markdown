@@ -4,7 +4,10 @@ author: Harlan Knight Wood
 layout: post
 excerpt: WikiNodes is an engine for large-scale parallel creative collaboration of all sorts. It harnesses the power of existing systems and workflows currently used for developing software, and applies them to creating media at large.
 ---
-<em>Large Scale Parallel Creative Collaboration</em>
+
+<img src="../IMG/massively-parallel-academic-research-sys1-300x200-2-185x185.png" class="thumbnail-post alignleft" />
+
+_Large Scale Parallel Creative Collaboration_
 
 Wikis have revolutionized textual information sharing. Documents created by harnessing collective collaboration far outperform previous modes of knowledge aggregation. Wikipedia has demonstrated the incredible effectiveness of this approach.
 
