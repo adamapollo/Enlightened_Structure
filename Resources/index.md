@@ -17,6 +17,7 @@ Projects
 --------
 
 * [10 Projects to Liberate the Web]
+* [The Metacurrency Project][]
 
 Conferences
 -----------
@@ -41,3 +42,4 @@ Conferences
 [Trust Framework]: http://connect.me/c/trust
 [The Personal Network]: http://blog.connect.me/whitepaper-the-personal-network
 [Wisdom 2.0]: http://www.wisdom2summit.com/
+[The Metacurrency Project]: http://metacurrency.org/
