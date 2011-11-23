@@ -1,4 +1,4 @@
---- 
+---
 title: Massively Parallel Academic Research System
 author: Harlan Knight Wood
 layout: post
@@ -10,17 +10,31 @@ Massively Parallel Academic Research System (MPARCS)--As Wikipedia has opened th
 Academic research builds upon other research. What if this could be done incrementally, as a living conversation? What if instead of having to wait for a whole "new" idea, a paper could be improved on incrementally, by anyone who had an improvement -- minor or revolutionary? Then the world of research and noetic advancement could become truly alive, constantly morphing, reorganizing, improving the human knowledge ecosystem.
 
 The technology involved is an extension of the "wiki" concept popularized by Wikipedia. But instead of trying to have a single, definitive version of each article, MPARCS allows each user to copy other users' articles, for editing, combining, remixing.
-<h2 id="multilevel_content_ratings">Multi-Level Content Ratings</h2>
+
+Multi-Level Content Ratings
+---------------------------
+
 Ratings are an extremely important part of MPARCS. Suppose an article on a physics simulation algorithm spawns versions created by thousands of interested users. When the original author wants to review the most interesting revisions, considering whether to incorporate any of the new ideas into their own latest update, they can turn to peer ratings as a starting place, to locate the most interesting content.
 
 A sophisticated ratings system will allow ratings at several levels: from the entry level, where any person can rate any article, up to the expert level, where articles deemed particularly "interesting" by the open ratings community can be assessed by credentialed experts in a given field. Users will also be able to rate other users, so that each user can create a personalized ratings matrix, where the ratings given to articles by users they trust will be weighted more significantly than those of users unknown to them.
-<h2 id="new_models_of_ip_ownership">New Models of IP Ownership</h2>
+
+New Models of IP Ownership
+--------------------------
+
 MPARCS will leverage the same populist power as Wikipedia, while also allowing for individual ownership -- each user would be allowed to copy and then edit others' (public domain) articles, but the original article would stay intact, allowing each contributor to receive full credit for the piece of the puzzle that they contribute. The system will allow users to see the complete history of any article, tracing its evolution through various authors, and providing a view of the differences between any two given versions.
-<h2 id="maximally_permissive_licensing">Maximally Permissive Licensing</h2>
+
+Maximally Permissive Licensing
+------------------------------
+
 MPARCS will be released as free, open source software, utilizing maximally permissive licenses, allowing incorporation into free and commercial software without restriction. The intention is to create a standard platform, with no barriers to communication and incorporation into other systems.
-<h2 id="development_roadmap">Development Roadmap</h2>
+
+Development Roadmap
+-------------------
+
 The MPARCS engine is in progress, with an early beta version already available. The project could be greatly accelerated with relatively modest funding, in order to secure fulltime development efforts. This roadmap is designed in six-month phases, utilizing modern agile software development methodologies to deliver maximum value: the features of the highest priority to the end users. User testing at the end of every monthly iteration will feed back feature requests into the plan for the subsequent iteration.
-<h3 id="phase_one">Phase One</h3>
+
+### Phase One
+
 <ol>
 	<li>Text article creation and remixing (already implemented)</li>
 	<li>Display of article history</li>
@@ -34,7 +48,12 @@ The MPARCS engine is in progress, with an early beta version already available. 
 	<li>Allow combining of articles to create new articles (multiple parentage)</li>
 	<li>Allow mirroring of existing articles from MediaWiki instances, including Wikipedia</li>
 </ol>
-<h3 id="phases_two_and_three">Phases Two and Three</h3>
+
+### Phases Two and Three
+
 Functionality to be determined, based on requirements gathered in ongoing feedback and reviews.
-<h2 id="next_steps">Next Steps</h2>
+
+Next Steps
+----------
+
 MPARCS continues to be developed as a volunteer effort in individual developers' spare time, supported by their belief in such a system enhancing the development of human knowledge. This progress could be greatly accelerated by a funding source with a similar interest in leveraging available technology to accelerate the human knowledge conversation.
