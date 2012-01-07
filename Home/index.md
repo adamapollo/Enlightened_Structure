@@ -9,11 +9,13 @@ Enlightened Structure is a set of Free Culture idea seeds &#8211; global
 infrastructure software projects for social good. All of the content on this site is
 reusable and remixable under a Creative Commons license.
 
+This is an open source startup!  You can [fork this site][] to add your ideas and projects.
+
 <div class="hr-ellipsis">&nbsp;</div>
 
 NodeMap
 -------
-key/value blobs
+Key/value storage for arbitrary blobs of binary or text data
 
 NodeSentences
 -------------
@@ -38,3 +40,4 @@ A vision for a simple and powerful open platform for humanity to exchange its tr
 
 
 [Core Network]: /Core_Network
+[fork this site]: https://github.com/onesunone/Enlightened_Structure
