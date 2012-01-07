@@ -19,15 +19,15 @@ Key/value storage for arbitrary blobs of binary or text data
 
 NodeSentences
 -------------
-subject/predicate/object triples -- or any other node chain
+Storage for subject/predicate/object triples -- or any other chain of nodes
 
 ForkDiffMerge
 -------------
-a vision for a large-scale parallel creative collaboration engine, a self-evolving container for collective intelligence to congregate around a project, while retaining the edits and contributions of every individual throughout the history of the collaboration. &nbsp; [read more &raquo;](/ForkDiffMerge)
+A vision for a large-scale parallel creative collaboration engine, a self-evolving container for collective intelligence to congregate around a project, while retaining the edits and contributions of every individual throughout the history of the collaboration. &nbsp; [read more &raquo;](/ForkDiffMerge)
 
 WikiNodes
 ---------
-data viz 
+Rich node network data visualization layer.
 
 NodeNav
 -------
