@@ -15,11 +15,11 @@ This is an open source startup!  You can [fork this site][] to add your ideas an
 
 NodeMap
 -------
-Key/value storage for arbitrary blobs of binary or text data
+Key/value storage for arbitrary blobs of binary or text data.
 
 NodeSentences
 -------------
-Storage for subject/predicate/object triples -- or any other chain of nodes
+Storage for subject/predicate/object triples -- or any other chain of nodes.
 
 ForkDiffMerge
 -------------
