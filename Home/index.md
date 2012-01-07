@@ -2,21 +2,39 @@
 layout: default
 ---
 
-<div>
-  <h1>Enlightened Structure: Free Culture Seeds</h1>
+Enlightened Structure: Free Culture Seeds
+=========================================
 
-  <p>Enlightened Structure is a set of Free Culture idea seeds &#8211; global
-  infrastructure software projects for social good. All of the content on this site is
-  reusable and remixable under a Creative Commons license.</p>
+Enlightened Structure is a set of Free Culture idea seeds &#8211; global
+infrastructure software projects for social good. All of the content on this site is
+reusable and remixable under a Creative Commons license.
 
-  <div class="hr-ellipsis">&nbsp;</div>
+<div class="hr-ellipsis">&nbsp;</div>
 
-  {% for post in site.posts %}
-    <div class="excerpt">
-      <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
-      <p>
-        {{ post.excerpt }}
-      </p>
-    </div>
-  {% endfor %}
-</div>
+NodeMap
+-------
+key/value blobs
+
+NodeSentences
+-------------
+subject/predicate/object triples -- or any other node chain
+
+ForkDiffMerge
+-------------
+a vision for a large-scale parallel creative collaboration engine, a self-evolving container for collective intelligence to congregate around a project, while retaining the edits and contributions of every individual throughout the history of the collaboration. &nbsp; [read more &raquo;](/ForkDiffMerge)
+
+WikiNodes
+---------
+data viz 
+
+NodeNav
+-------
+Visual navigation of information, eventually in virtual reality.  For example, Adam Apollo's [Core Network][], a visual interface based on the geometry and physics of space-time.
+
+The Trust Exchange
+------------------
+A vision for a simple and powerful open platform for humanity to exchange its trust information, the Trust Exchange will amalgamate existing ratings from any source, feeding them into a free, open, globally distributed information network and API. &nbsp; [read more &raquo;](/Trust_Exchange)
+
+
+
+[Core Network]: /Core_Network

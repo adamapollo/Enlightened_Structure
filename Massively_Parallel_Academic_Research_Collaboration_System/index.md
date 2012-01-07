@@ -33,7 +33,7 @@ Development Roadmap
 
 The MPARCS engine is in progress, with an early beta version already available. The project could be greatly accelerated with relatively modest funding, in order to secure fulltime development efforts. This roadmap is designed in six-month phases, utilizing modern agile software development methodologies to deliver maximum value: the features of the highest priority to the end users. User testing at the end of every monthly iteration will feed back feature requests into the plan for the subsequent iteration.
 
-### Phase One
+### Initial Development
 
 <ol>
 	<li>Text article creation and remixing (already implemented)</li>
@@ -48,10 +48,6 @@ The MPARCS engine is in progress, with an early beta version already available. 
 	<li>Allow combining of articles to create new articles (multiple parentage)</li>
 	<li>Allow mirroring of existing articles from MediaWiki instances, including Wikipedia</li>
 </ol>
-
-### Phases Two and Three
-
-Functionality to be determined, based on requirements gathered in ongoing feedback and reviews.
 
 Next Steps
 ----------

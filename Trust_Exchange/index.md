@@ -2,7 +2,6 @@
 title: Trust Exchange
 author: Harlan Knight Wood
 layout: post
-excerpt: The Trust Exchange will amalgamate existing ratings from any source, feeding them into a free, open, globally distributed database. Instead of creating another proprietary “silo” containing your ratings and trust information, like so many existing online systems, the Trust Exchange is a simple and powerful open platform for humanity to exchange its trust information.
 ---
 
 <img src="../IMG/the-trust-exchange-185x136.png" class="thumbnail-post alignleft" />

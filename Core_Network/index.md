@@ -2,7 +2,6 @@
 title: The Core Network
 author: Adam Apollo
 layout: post
-excerpt: The Core Network is a social browser and visual interface based on the geometry and physics of space-time itself.
 ---
 
 <img src="../IMG/buckyball-185x185.png" class="thumbnail-post alignleft" />
