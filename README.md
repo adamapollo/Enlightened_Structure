@@ -1,4 +1,5 @@
 This is the sourcecode that generates [enlightenedstructure.hkw7.org][].  To make your own version:
+
 * Visit [github.com/onesunone/Enlightened_Structure][]
 * Log in to Github (first make a free account if you don't have one yet)
 * Press the "Fork" button
