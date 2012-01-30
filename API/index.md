@@ -2,6 +2,7 @@
 layout: default
 ---
 
+
 Enlightened Structure APIs
 ==========================
 
@@ -38,22 +39,29 @@ Trust Exchange
     post '/' => 'ratings#create'  
         # POST params: 
         # { 
-        #    :entity => entity_name, 
-        #    :category => category_name, 
-        #    :rating => [0..1] 
-        #    :gpg_key => users_gpg_key
+        #    :entity => entity_name,        # eg google.com
+        #    :category => category_name,    # eg integrity
+        #    :rating => [0..1]              # eg 0.77
+        #    :gpg_key => users_gpg_key      # eg 'GiBDv2vMARBACPHw...'
         # } 
 
     get  ':key' => 'ratings#show', :constraints => { :key => SHA512_PATTERN }
-    # show all ratings of an entity
-    
-    get '/entities/:entity'
-    get '/users/:user/entities/:entity'
-    get '/users/:user/entities/:entity/categories/:category'
-    get '/users/:user/categories/:category'
-    get '/entities/:entity/categories/:category'
-    
-    get '/' => 'ratings#index'
 
-    // eg google, 7.3, integrity
+    # show recent ratings of interest
+    get '/' => 'ratings#index'
     
+    # show ratings of an entity
+    get '/entities/:entity' => 'ratings#index'
+    
+    # show ratings of an entity by a given user
+    get '/users/:user/entities/:entity' => 'ratings#index'
+
+    # show ratings of an entity by a given user within a category
+    get '/users/:user/entities/:entity/categories/:category' => 'ratings#index'
+    
+    # show ratings by a given user within a category
+    get '/users/:user/categories/:category' => 'ratings#index'
+
+    # show ratings of an entity within a category
+    get '/entities/:entity/categories/:category' => 'ratings#index'    
+
