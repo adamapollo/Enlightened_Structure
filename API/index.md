@@ -6,22 +6,26 @@ RESTful API, defined as Rails-style routes:
 NodeMap
 -------
 
-    post '/' => 'nodes#create'    # { :node => { :content => content_blob } }
-    get  ':key' => 'nodes#show', :as => 'node', :constraints => { :key => SHA512_PATTERN }
+    post '/' => 'nodes#create'    # POST params: { :node => { :content => content_blob } }
+    get  ':key' => 'nodes#show', :constraints => { :key => SHA512_PATTERN }
     get '/' => 'nodes#index'
-
-
-----
-below this line are works in progress -- todo convert to rails 3 style routes
-----
 
 ForkDiffMerge
 -------------
 
-    nodes/diff -- POST { :a => url, :b => url } =>
-        { :a-id => [sha512], :b-id => [sha512], :diff => [sha512] }
-    nodes/diff -- GET /[sha512]/[sha512] => [sha512]
-    nodes/merge -- POST { node_content, patch } => merged node
+    # diff:
+    
+    get '/nodes/compare/:before..:after', 'nodes#compare_blobs',
+      :constraints => { :before => /#{SHA512_PATTERN}/, :after => /#{SHA512_PATTERN}/ }
+
+    get '/nodes/compare/:before_url..:after_url', 'nodes#compare_from_urls'
+
+    # merge: 
+    
+    post 'nodes/:id/merge' => 'nodes#merge', :constraints => { :id => /#{SHA512_PATTERN}/ }
+        # POST params: { :patch => patch_text }
+
+    get 'nodes/:id/merge/:patch' => 'nodes#merge', :constraints => { :id => /#{SHA512_PATTERN}/, :patch => /#{SHA512_PATTERN}/ }
 
 The Trust Exchange
 ------------------
