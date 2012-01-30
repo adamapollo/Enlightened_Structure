@@ -1,4 +1,3 @@
-
 Enlightened Structure APIs
 ==========================
 
@@ -32,5 +31,25 @@ Merge
 Trust Exchange
 --------------
 
-    ratings/show -- GET /[sha512] => { object, rating, topic }  // eg google, 7.3, integrity
-    ratings/create -- POST / { object, rating, topic } => sha512 of rating
+    post '/' => 'ratings#create'  
+        # POST params: 
+        # { 
+        #    :entity => entity_name, 
+        #    :category => category_name, 
+        #    :rating => [0..1] 
+        #    :gpg_key => users_gpg_key
+        # } 
+
+    get  ':key' => 'ratings#show', :constraints => { :key => SHA512_PATTERN }
+    # show all ratings of an entity
+    
+    get '/entities/:entity'
+    get '/users/:user/entities/:entity'
+    get '/users/:user/entities/:entity/categories/:category'
+    get '/users/:user/categories/:category'
+    get '/entities/:entity/categories/:category'
+    
+    get '/' => 'ratings#index'
+
+    // eg google, 7.3, integrity
+    
