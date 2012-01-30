@@ -12,7 +12,7 @@ NodeMap
 -------
 
     post '/' => 'nodes#create'    # POST params: { :node => { :content => content_blob } }
-    get  ':key' => 'nodes#show', :constraints => { :key => SHA512_PATTERN }
+    get  '/:key' => 'nodes#show', :constraints => { :key => SHA512_PATTERN }
     get '/' => 'nodes#index'
 
 Diff
@@ -26,10 +26,10 @@ Diff
 Merge
 -----
     
-    post 'nodes/:id/merge' => 'nodes#merge', :constraints => { :id => /#{SHA512_PATTERN}/ }
+    post '/nodes/:id/merge' => 'nodes#merge', :constraints => { :id => /#{SHA512_PATTERN}/ }
         # POST params: { :patch => patch_text }
 
-    get 'nodes/:id/merge/:patch' => 'nodes#merge', :constraints => { :id => /#{SHA512_PATTERN}/, :patch => /#{SHA512_PATTERN}/ }
+    get '/nodes/:id/merge/:patch' => 'nodes#merge', :constraints => { :id => /#{SHA512_PATTERN}/, :patch => /#{SHA512_PATTERN}/ }
 
     # todo: merge conflict resolution API
     
@@ -45,7 +45,7 @@ Trust Exchange
         #    :gpg_key => users_gpg_key      # eg 'GiBDv2vMARBACPHw...'
         # } 
 
-    get  ':key' => 'ratings#show', :constraints => { :key => SHA512_PATTERN }
+    get  '/:key' => 'ratings#show', :constraints => { :key => SHA512_PATTERN }
 
     # show recent ratings of interest
     get '/' => 'ratings#index'
