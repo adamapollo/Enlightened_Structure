@@ -1,5 +1,6 @@
 ---
 layout: default
+title: API -- Trust Exchange, NodeMap, Diff, Merge
 ---
 
 
